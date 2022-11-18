@@ -1,8 +1,8 @@
-## Hi there 👋 
+#### Hi there 👋 
 
-### I am a 4th year student at McGill University majoring in Computer Science and Minoring in Management
+I am a 4th year student at McGill University majoring in Computer Science and Minoring in Management
 
-### Reach out to me on <a href="https://www.linkedin.com/in/saadshahbaz/" target="_blank">LinkedIn</a> or email me at saadshahbaz561@gmail.com
+Reach out to me on <a href="https://www.linkedin.com/in/saadshahbaz/" target="_blank">LinkedIn</a> or email me at saadshahbaz561@gmail.com
 
 
 <!---

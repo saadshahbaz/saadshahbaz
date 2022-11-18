@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @saadshahbaz
-- 👀 I'm a final year Computer Science student at McGill University
-- 🌱 I’m currently learning MERN stacl
-- 💞️ I’m looking for full time software engineering positions in Canada
-- 📫 You can reach out to me at saad.shahbaz@mail.mcgill.ca
+## Hi there 👋 
+
+### I am a 4th year student at McGill University majoring in Computer Science and Minoring in Management
+
+### Reach out to me on <a href="https://www.linkedin.com/in/saadshahbaz/" target="_blank">LinkedIn</a> or email me at saadshahbaz561@gmail.com
+
 
 <!---
 saadshahbaz/saadshahbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
